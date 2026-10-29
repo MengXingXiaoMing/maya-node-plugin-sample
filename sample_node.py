@@ -11,7 +11,7 @@ NODE_INFO = {
     "name": "示例：最小节点插件",
     "description": "只注册一个空节点，用来演示插件市场的节点格式、条目写法与自动合并流程。",
     "author": "詹康明",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "node": "marketSampleNode",
     "node_id": "0x001414BF",
     "run": "cmds.createNode('marketSampleNode')",
