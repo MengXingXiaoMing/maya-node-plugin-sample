@@ -13,7 +13,7 @@ NODE_INFO = {
     "author": "詹康明",
     "version": "1.1.0",
     "node": "marketSampleNode",
-    "node_id": "0x00A10B01",
+    "node_id": "0x001414BF",
     "run": "cmds.createNode('marketSampleNode')",
     "tags": ["示例", "模板"],
     "github": "https://github.com/MengXingXiaoMing/maya-node-plugin-sample",
