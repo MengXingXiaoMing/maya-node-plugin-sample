@@ -7,7 +7,7 @@
 
 - 插件代码放在**作者自己的公开仓库**里（不在索引仓库里）
 - 入口文件里有 `NODE_INFO`，写明节点序号、节点名、版本、作者、标签
-- 索引仓库里只需要一个 `plugins/0x00A10B01.json` 元数据条目指向这里
+- 索引仓库里只需要一个 `plugins/0x001414BF.json` 元数据条目指向这里
 
 ## 对应的市场条目
 
@@ -16,8 +16,8 @@
   "name": "示例：最小节点插件",
   "description": "只注册一个空节点，用来演示插件市场的节点格式、条目写法与自动合并流程。",
   "author": "詹康明",
-  "version": "1.0.0",
-  "node_id": "0x00A10B01",
+  "version": "1.1.0",
+  "node_id": "0x001414BF",
   "node_name": "marketSampleNode",
   "category": "utility",
   "tags": ["示例", "模板"],
